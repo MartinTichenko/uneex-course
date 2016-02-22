@@ -1,2 +1,2 @@
 # uneex-course
-none
+Repo for uneex course
